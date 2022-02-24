@@ -1,2 +1,3 @@
 # sharing-github
 
+This study compared and evaluated several different classifier algorithm models including Support Vector Machine (SVM), K-Nearest Neighbor (KNN), Naive Bayes (NB), and FastText that perform within Hadith of Sahih Bukhari content. According to the results of tests done on 20 documents (chapters) of Hadith, the FastText are the classifiers with the highest similarity accuracy of 99%. Meanwhile, SVM achieved 69% precision and 58% recall, whereas KNN achieved 64% and 52% precision and recall, respectively. The models that obtained low precision and recall were NB of only 54% and 36%, respectively.
